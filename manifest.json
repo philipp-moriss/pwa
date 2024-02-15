@@ -17,7 +17,7 @@
             "form_factor": "wide"
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "/",
     "orientation": "any",
     "display": "standalone",
     "dir": "auto",
