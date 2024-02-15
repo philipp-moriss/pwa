@@ -2,8 +2,8 @@ const cacheName = 'hello-pwa';
 const filesToCache = [
   '/',
   '/index.html',
-//   '/css/main.css',
-//   '/css/reset.css',
+  '/css/main.css',
+  '/css/reset.css',
   '/assets/icon512_maskable.png',
   '/assets/icon512_rounded.png',
   '/js/main.js'
